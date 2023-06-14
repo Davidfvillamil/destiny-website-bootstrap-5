@@ -1,6 +1,6 @@
 :root{
-    --green: #16db93;
-    --green-dark: #13bc7e;
+    --green: #6f579c;
+    --green-dark: #312f6a;
     --light-grey: #f1f4f6;
 }
 
@@ -73,7 +73,7 @@ header{
     color: var(--green)!important;
 }
 .phone-img img{
-    width: 500px;
+    width: 900px;
 }
 
 /* section 6 */
@@ -112,3 +112,4 @@ header{
     background: transparent!important;
     color: #fff;
 }
+
